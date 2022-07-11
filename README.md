@@ -1,5 +1,5 @@
 ## Olá, me chamo Gabriel Bezerra!
-### Sou estudante de desenvolvimento web full stack na Kenzie Academy Brasil e curso tecnólogo em Análise e Desenvolvimento de Sistemas
+### Desenvolvedor Front-End ReactJs
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bezerra-965b27211/)
 
