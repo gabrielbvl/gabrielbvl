@@ -1,7 +1,7 @@
 ## Olá, me chamo Gabriel Bezerra!
-### Desenvolvedor Front-End ReactJs
+### Programador Full Stack
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bezerra-965b27211/)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bezerra-vl)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbvlk&show_icons=true&theme=tokyonight)
 
