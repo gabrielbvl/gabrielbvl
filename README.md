@@ -3,10 +3,10 @@
 
 <p align="center">Desenvolvedor Full-Stack apaxionado por Front-End e sempre buscando desafios para constantemente crescer no mundo do desenvolvimento WEB <br><br> Aprendi programação Web através do ReactJS, hoje estudo e busco me aprofundar também no VueJS e pretendo futuramente trabalhar com ele, no back-end sempre estudei e utilizei NodeJS mas hoje busco me aperfeiçoar em PHP para desbravar novos oceanos.</p>&nbsp;
 
-<div  display="flex" align="center" style="margin-bottom:100px">
+<div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gabrielbvl&theme=radical&mode=weekly" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbvl&theme=radical&width=55%&align="center")](https://github.com/gabrielbvl/github-readme-stats)
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
 
 </div>
  
