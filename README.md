@@ -7,7 +7,7 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gabrielbvl&theme=radical&mode=weekly" />
  </div>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigabrielbvlanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img width=40% align="center" src="https://github-readme-stats-git-main-gabrielbvl.vercel.app/api/top-langs/?username=gabrielbvl&show_icons=true&theme=radical&layout=compact" />
  
  &nbsp;
  &nbsp;
