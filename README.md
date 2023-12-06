@@ -7,7 +7,7 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gabrielbvl&theme=radical&mode=weekly" />
  </div>
 
- ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbvl&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbvl)](https://github.com/gabrielbvl/github-readme-stats)
  
  &nbsp;
  &nbsp;
