@@ -5,6 +5,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gabrielbvl&theme=radical&mode=weekly" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gabrielbvl=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
  
